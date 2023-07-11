@@ -24,11 +24,3 @@ Navegue até a pasta src/test/java e abra a classe TestaCliente
 Um botão verde (um play) deve aparecer ao lado do nome da classe na linha 11, basta apertar ele.
 
 Os testes serão compilados e os resultados serão exibidos na tela de execução do Intellij.
-
-Me Segue =}
-
-😍 [YouTube]( https://www.youtube.com/c/pessonizando) 
-
-💗 [Instagram](https://www.instagram.com/pessonizando)
-
-⭐ [Telegram](https://t.me/pessonizando)
