@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestaCliente" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-07-11T18:27:28" hostname="DESKTOP-GOBHHVJ" time="3.077">
+  <properties/>
+  <testcase name="Quando eu solicitar o risco de um cliente com credenciais vÃ¡lidas, EntÃ£o ele deve ser retornado com sucesso" classname="TestaCliente" time="2.701"/>
+  <testcase name="Quando eu deletar um cliente, EntÃ£o ele deve ser removido com sucesso" classname="TestaCliente" time="0.088"/>
+  <testcase name="Quando eu atualizar um cliente, EntÃ£o ele deve ser atualizado com sucesso" classname="TestaCliente" time="0.133"/>
+  <testcase name="Quando eu requisitar a lista de clientes sem adicionar clientes antes, EntÃ£o ela deve estar vazia" classname="TestaCliente" time="0.055"/>
+  <testcase name="Quando eu cadastrar um cliente, EntÃ£o ele deve ser salvo com sucesso" classname="TestaCliente" time="0.095"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
